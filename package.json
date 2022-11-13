@@ -4,7 +4,6 @@
   "main": "index.js",
   "license": "MIT",
   "private": true,
-  "type": "module",
   "scripts": {
     "start": "webpack serve --open --config webpack.dev.js",
     "test": "jest",
